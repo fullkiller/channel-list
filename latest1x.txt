@@ -1,4 +1,4 @@
-version: 2023-07-07
+version: 2023-08-02
 https://raw.githubusercontent.com/fullkiller/channel-list/main/1x1.zip
 creator:fk
 type:userbouquet
